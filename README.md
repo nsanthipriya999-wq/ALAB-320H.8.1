@@ -14,3 +14,10 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the Oxlint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ALAB 320H.8.1 - Consuming Third-Party APIs
+
+Learning Objectives
+After completing this lab, learners will have demonstrated the ability to:
+
+Create a React application based on given requirements.
+Consume an external API and render its data according to requirements.
